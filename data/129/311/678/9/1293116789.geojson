@@ -1,0 +1,68 @@
+{
+  "id": 1293116789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.10206,18.19209,-63.10206,18.19209",
+    "geom:latitude":18.19209,
+    "geom:longitude":-63.10206,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lower South Hill",
+    "gn:country_code":"AI",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573432,
+    "gn:latitude":18.19209,
+    "gn:longitude":-63.10206,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Lower South Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Anguilla",
+    "iso:country":"AI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632283,
+        85667721,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573432
+    },
+    "wof:country":"AI",
+    "wof:geomhash":"42c9768cd7f2f5c4bea1fa1c0198fe13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632283,
+            "empire_id":136253055,
+            "locality_id":1293116789,
+            "region_id":85667721
+        }
+    ],
+    "wof:id":1293116789,
+    "wof:lastmodified":1536823627,
+    "wof:name":"Lower South Hill",
+    "wof:parent_id":85667721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ai",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.10206,
+    18.19209,
+    -63.10206,
+    18.19209
+],
+  "geometry": {"coordinates":[-63.10206,18.19209],"type":"Point"}
+}

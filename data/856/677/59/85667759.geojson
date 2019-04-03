@@ -1,0 +1,201 @@
+{
+  "id": 85667759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000678,
+    "geom:area_square_m":7968242.221822,
+    "geom:bbox":"-63.1227921209,18.1835829882,-63.0613076759,18.2195503194",
+    "geom:latitude":18.204801,
+    "geom:longitude":-63.100795,
+    "gn:id":"",
+    "iso:country":"AI",
+    "label:eng_x_preferred_longname":[
+        "South Hill District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":18.203694,
+    "lbl:longitude":-63.10848,
+    "mps:latitude":18.203694,
+    "mps:longitude":-63.10848,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "South Hill"
+    ],
+    "name:deu_x_preferred":[
+        "South Hill"
+    ],
+    "name:eng_x_preferred":[
+        "South Hill"
+    ],
+    "name:eng_x_variant":[
+        "S Hill"
+    ],
+    "name:hbs_x_preferred":[
+        "Saut Hil"
+    ],
+    "name:ita_x_preferred":[
+        "South Hill"
+    ],
+    "name:nld_x_preferred":[
+        "South Hill"
+    ],
+    "name:pol_x_preferred":[
+        "South Hill"
+    ],
+    "name:por_x_preferred":[
+        "South Hill"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0443\u0442 \u0425\u0438\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "South Hill"
+    ],
+    "name:vol_x_preferred":[
+        "South Hill"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"AIA",
+    "ne:adm0_label":"8",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"AIA-5122",
+    "ne:adm1_code":"AIA-5122",
+    "ne:admin":"Anguilla",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"AI.SO",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5122",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Anguilla",
+    "ne:gn_a1_code":"AI.",
+    "ne:gn_id":"-99",
+    "ne:gn_level":"0",
+    "ne:gn_name":"",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"AIA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"AI-",
+    "ne:iso_a2":"AI",
+    "ne:labelrank":"20",
+    "ne:latitude":"18.20830000000",
+    "ne:longitude":"-63.08810000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"South Hill",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"GB1",
+    "ne:sub_code":"",
+    "ne:type":"District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/South_Hill,_Anguilla",
+    "ne:woe_id":24549649,
+    "ne:woe_label":"",
+    "ne:woe_name":"South Hill",
+    "qs:a0":"Anguilla",
+    "qs:a0_lc":"AI",
+    "qs:a1":"South Hill",
+    "qs:a1_lc":"AIA-5122",
+    "qs:adm0":"Anguilla",
+    "qs:adm0_a3":"AIA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-05-11",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"2011-05-11",
+    "statoids:capital":"",
+    "statoids:country":"AI",
+    "statoids:gec":"AV",
+    "statoids:hasc":"AI.SO",
+    "statoids:iso":"",
+    "statoids:name":"South Hill",
+    "statoids:population":"1722",
+    "statoids:timezone":"-4",
+    "statoids:type":"district",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AV",
+        "gn:id":-99,
+        "gp:id":24549649,
+        "hasc:id":"AI.SO",
+        "qs:id":954736
+    },
+    "wof:country":"AI",
+    "wof:geomhash":"aca12edc82412b22a00a02501a7d0858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "region_id":85667759
+        }
+    ],
+    "wof:id":85667759,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550298,
+    "wof:name":"South Hill",
+    "wof:parent_id":-1,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":1722,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ai",
+    "wof:shortcode":"SO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.12279212085963,
+    18.1835829881644,
+    -63.06130767590849,
+    18.21955031939177
+],
+  "geometry": {"coordinates":[[[-63.06130767590849,18.21915210318707],[-63.07262947946685,18.21213258525069],[-63.08121849064077,18.20680739814298],[-63.08758995081553,18.20163058658238],[-63.10192573778255,18.20123237037762],[-63.10272217019195,18.19685199122648],[-63.11387222572262,18.19685199122648],[-63.11384029889064,18.18984609622044],[-63.12259934848112,18.1835829881644],[-63.12279212085963,18.20807526236354],[-63.09723873567907,18.21246979414576],[-63.07882919251318,18.21477172403587],[-63.07583153449769,18.21627055304361],[-63.06927200180138,18.21955031939177],[-63.06130767590849,18.21915210318707]]],"type":"Polygon"}
+}

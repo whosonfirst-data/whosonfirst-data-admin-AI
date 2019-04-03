@@ -1,0 +1,73 @@
+{
+  "id": 1209730119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.02886,18.25385,-63.02886,18.25385",
+    "geom:latitude":18.25385,
+    "geom:longitude":-63.02886,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Shoal Bay Village",
+    "gn:cc2":"AI",
+    "gn:country_code":"AI",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573390,
+    "gn:latitude":18.25385,
+    "gn:longitude":-63.02886,
+    "gn:modification_date":"2016-07-31",
+    "gn:name":"Shoal Bay Village",
+    "gn:population":0,
+    "gn:timezone":"America/Anguilla",
+    "iso:country":"AI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shoal Village",
+        "Shoal Bay Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632283,
+        85667743,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573390
+    },
+    "wof:country":"AI",
+    "wof:geomhash":"5ccecbe8d24df00571e00217e97f8118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632283,
+            "empire_id":136253055,
+            "locality_id":1209730119,
+            "region_id":85667743
+        }
+    ],
+    "wof:id":1209730119,
+    "wof:lastmodified":1537583953,
+    "wof:name":"Shoal Bay Village",
+    "wof:parent_id":85667743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ai",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.02886,
+    18.25385,
+    -63.02886,
+    18.25385
+],
+  "geometry": {"coordinates":[-63.02886,18.25385],"type":"Point"}
+}

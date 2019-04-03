@@ -1,0 +1,63 @@
+{
+  "id": 890420155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.03333,18.2,-63.03333,18.2",
+    "geom:latitude":18.2,
+    "geom:longitude":-63.03333,
+    "gn:country":"AI",
+    "gn:fcode":"PPL",
+    "gn:pop":1199,
+    "iso:country":"AI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"The Farrington",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":49,
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573378,
+        "gp:id":56271,
+        "qs:id":95939,
+        "wd:id":"Q7733473",
+        "wk:page":"The Farrington"
+    },
+    "wof:country":"AI",
+    "wof:created":1469051320,
+    "wof:geomhash":"8ec3b98fd1a01e2696857366f640fd70",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":890420155,
+            "region_id":-1
+        }
+    ],
+    "wof:id":890420155,
+    "wof:lastmodified":1527792810,
+    "wof:name":"The Farrington",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1199,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ai",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.03333,
+    18.2,
+    -63.03333,
+    18.2
+],
+  "geometry": {"coordinates":[-63.03333,18.2],"type":"Point"}
+}

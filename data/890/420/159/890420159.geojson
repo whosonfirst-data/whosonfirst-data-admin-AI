@@ -1,0 +1,175 @@
+{
+  "id": 890420159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.08333,18.2,-63.08333,18.2",
+    "geom:latitude":18.2,
+    "geom:longitude":-63.08333,
+    "gn:country":"AI",
+    "gn:fcode":"PPL",
+    "gn:pop":326,
+    "iso:country":"AI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062f\u064a \u062c\u0631\u0627\u0648\u0646\u062f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09bf \u0997\u09cd\u09b0\u09be\u0989\u09a8\u09cd\u09a1"
+    ],
+    "name:dan_x_preferred":[
+        "Sandy Ground"
+    ],
+    "name:dut_x_preferred":[
+        "Sandy Ground"
+    ],
+    "name:eng_x_preferred":[
+        "Sandy Ground"
+    ],
+    "name:fin_x_preferred":[
+        "Sandy Ground"
+    ],
+    "name:fre_x_preferred":[
+        "Sandy Ground"
+    ],
+    "name:ger_x_preferred":[
+        "Sandy Ground"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03ac\u03bd\u03c4\u03c5 \u0393\u03ba\u03c1\u03ac\u03bf\u03c5\u03bd\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0aa1\u0ac0 \u0a97\u0acd\u0ab0\u0abe\u0a89\u0aa8\u0acd\u0aa1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0902\u0921\u0940 \u0917\u094d\u0930\u093e\u0909\u0902\u0921"
+    ],
+    "name:ind_x_preferred":[
+        "Sandy Ground"
+    ],
+    "name:ita_x_preferred":[
+        "Sandy Ground"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30c7\u30a3\u30fc\u30fb\u30b0\u30e9\u30a6\u30f3\u30c9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0cbf \u0c97\u0ccd\u0cb0\u0ccc\u0c82\u0ca1\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0cc\ub514 \uadf8\ub77c\uc6b4\ub4dc"
+    ],
+    "name:lav_x_preferred":[
+        "Sendigraunda"
+    ],
+    "name:lit_x_preferred":[
+        "Sendi Graundas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0901\u0921\u0940 \u0917\u094d\u0930\u093e\u0909\u0902\u0921"
+    ],
+    "name:may_x_preferred":[
+        "Sandy Ground"
+    ],
+    "name:nob_x_preferred":[
+        "Sandy Ground"
+    ],
+    "name:pol_x_preferred":[
+        "Sandy Ground"
+    ],
+    "name:por_x_preferred":[
+        "Sandy Ground"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0434\u0438-\u0413\u0440\u0430\u0443\u043d\u0434"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca\u0da9\u0dd2 \u0db7\u0dd6\u0db8\u0dd2\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Sandy Ground"
+    ],
+    "name:swe_x_preferred":[
+        "Sandy Ground"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf  \u0b95\u0bbf\u0bb0\u0bcc\u0ba3\u0bcd\u0b9f\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c02\u0c21\u0c40 \u0c17\u0c4d\u0c30\u0c4c\u0c02\u0c21\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e0b\u0e19\u0e14\u0e35\u0e49 \u0e01\u0e23\u0e32\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Sandy ground"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u0434\u0456-\u0413\u0440\u0430\u0443\u043d\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u0688\u06d2 \u06af\u0631\u0627\u0624\u0646\u0688"
+    ],
+    "name:vie_x_preferred":[
+        "Sandy Ground"
+    ],
+    "name:wel_x_preferred":[
+        "Sandy Ground"
+    ],
+    "qs:name":"Sandy Ground Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":87,
+    "wof:belongsto":[
+        85632283,
+        85667721,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573407,
+        "gp:id":12510830,
+        "qs:id":95940,
+        "wd:id":"Q2989314",
+        "wk:page":"Sandy Ground, Anguilla"
+    },
+    "wof:country":"AI",
+    "wof:created":1469051320,
+    "wof:geomhash":"a88bf53326395a5578a6ed9995fddde8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632283,
+            "empire_id":136253055,
+            "locality_id":890420159,
+            "region_id":85667721
+        }
+    ],
+    "wof:id":890420159,
+    "wof:lastmodified":1527792807,
+    "wof:name":"Sandy Ground Village",
+    "wof:parent_id":85667721,
+    "wof:placetype":"locality",
+    "wof:population":326,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ai",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.08333,
+    18.2,
+    -63.08333,
+    18.2
+],
+  "geometry": {"coordinates":[-63.08333,18.2],"type":"Point"}
+}

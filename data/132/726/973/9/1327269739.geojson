@@ -1,0 +1,68 @@
+{
+  "id": 1327269739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.04178,18.20799,-63.04178,18.20799",
+    "geom:latitude":18.20799,
+    "geom:longitude":-63.04178,
+    "gn:admin1_code":"11205439",
+    "gn:asciiname":"The Quarter",
+    "gn:country_code":"AI",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":3573375,
+    "gn:latitude":18.20799,
+    "gn:longitude":-63.04178,
+    "gn:modification_date":"2016-07-31",
+    "gn:name":"The Quarter",
+    "gn:population":0,
+    "gn:timezone":"America/Anguilla",
+    "iso:country":"AI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632283,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573375,
+        "wk:page":"The_Quarter%2C_Anguilla"
+    },
+    "wof:country":"AI",
+    "wof:geomhash":"70fce5f74392c27a9e7f1235bff8e2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632283,
+            "empire_id":136253055,
+            "locality_id":1327269739,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327269739,
+    "wof:lastmodified":1537486026,
+    "wof:name":"The Quarter",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ai",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.04178,
+    18.20799,
+    -63.04178,
+    18.20799
+],
+  "geometry": {"coordinates":[-63.04178,18.20799],"type":"Point"}
+}

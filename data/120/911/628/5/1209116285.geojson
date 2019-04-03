@@ -1,0 +1,61 @@
+{
+  "id": 1209116285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.99552,18.24301,-62.99552,18.24301",
+    "geom:latitude":18.24301,
+    "geom:longitude":-62.99552,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mount Fortune",
+    "gn:country_code":"AI",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573421,
+    "gn:latitude":18.24301,
+    "gn:longitude":-62.99552,
+    "gn:modification_date":"2016-07-30",
+    "gn:name":"Mount Fortune",
+    "gn:population":0,
+    "gn:timezone":"America/Anguilla",
+    "iso:country":"AI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573421
+    },
+    "wof:country":"AI",
+    "wof:geomhash":"e1a713fdddb4f71c7709f8c3d49e7d39",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632283,
+            "locality_id":1209116285
+        }
+    ],
+    "wof:id":1209116285,
+    "wof:lastmodified":1536297243,
+    "wof:name":"Mount Fortune",
+    "wof:parent_id":85632283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ai",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.99551999999999,
+    18.24301,
+    -62.99551999999999,
+    18.24301
+],
+  "geometry": {"coordinates":[-62.99551999999999,18.24301],"type":"Point"}
+}

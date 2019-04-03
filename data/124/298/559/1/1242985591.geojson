@@ -1,0 +1,67 @@
+{
+  "id": 1242985591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.04353,18.20834,-63.04353,18.20834",
+    "geom:latitude":18.20834,
+    "geom:longitude":-63.04353,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Rey Hill",
+    "gn:country_code":"AI",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573412,
+    "gn:latitude":18.20834,
+    "gn:longitude":-63.04353,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Rey Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Anguilla",
+    "iso:country":"AI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632283,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573412
+    },
+    "wof:country":"AI",
+    "wof:geomhash":"ad0f6c67a17cd9db3a7b45e84de94bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632283,
+            "empire_id":136253055,
+            "locality_id":1242985591,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242985591,
+    "wof:lastmodified":1536972499,
+    "wof:name":"Rey Hill",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ai",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.04353,
+    18.20834,
+    -63.04353,
+    18.20834
+],
+  "geometry": {"coordinates":[-63.04353,18.20834],"type":"Point"}
+}

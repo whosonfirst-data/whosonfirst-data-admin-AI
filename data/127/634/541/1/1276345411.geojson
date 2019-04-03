@@ -1,0 +1,68 @@
+{
+  "id": 1276345411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.12879,18.1876,-63.12879,18.1876",
+    "geom:latitude":18.1876,
+    "geom:longitude":-63.12879,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Long Bay Village",
+    "gn:country_code":"AI",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573440,
+    "gn:latitude":18.1876,
+    "gn:longitude":-63.12879,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Long Bay Village",
+    "gn:population":0,
+    "gn:timezone":"America/Anguilla",
+    "iso:country":"AI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632283,
+        85667779,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573440
+    },
+    "wof:country":"AI",
+    "wof:geomhash":"7cc6d391f12fb8bfc51eea2e10830bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632283,
+            "empire_id":136253055,
+            "locality_id":1276345411,
+            "region_id":85667779
+        }
+    ],
+    "wof:id":1276345411,
+    "wof:lastmodified":1536762448,
+    "wof:name":"Long Bay Village",
+    "wof:parent_id":85667779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ai",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.12879,
+    18.1876,
+    -63.12879,
+    18.1876
+],
+  "geometry": {"coordinates":[-63.12879,18.1876],"type":"Point"}
+}

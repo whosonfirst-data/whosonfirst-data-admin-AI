@@ -1,0 +1,62 @@
+{
+  "id": 1209249671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.04401,18.22919,-63.04401,18.22919",
+    "geom:latitude":18.22919,
+    "geom:longitude":-63.04401,
+    "gn:admin1_code":"11205440",
+    "gn:asciiname":"North Side",
+    "gn:country_code":"AI",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":3573418,
+    "gn:latitude":18.22919,
+    "gn:longitude":-63.04401,
+    "gn:modification_date":"2016-07-31",
+    "gn:name":"North Side",
+    "gn:population":0,
+    "gn:timezone":"America/Anguilla",
+    "iso:country":"AI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573418,
+        "wk:page":"North_Side%2C_Anguilla"
+    },
+    "wof:country":"AI",
+    "wof:geomhash":"09aff34d33b29ff9798e7c43f347efdb",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632283,
+            "locality_id":1209249671
+        }
+    ],
+    "wof:id":1209249671,
+    "wof:lastmodified":1537486026,
+    "wof:name":"North Side",
+    "wof:parent_id":85632283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ai",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.04401,
+    18.22919,
+    -63.04401,
+    18.22919
+],
+  "geometry": {"coordinates":[-63.04401,18.22919],"type":"Point"}
+}

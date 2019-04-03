@@ -1,0 +1,73 @@
+{
+  "id": 1276892315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.06393,18.2172,-63.06393,18.2172",
+    "geom:latitude":18.2172,
+    "geom:longitude":-63.06393,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Crocus Hill",
+    "gn:cc2":"AI",
+    "gn:country_code":"AI",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573480,
+    "gn:latitude":18.2172,
+    "gn:longitude":-63.06393,
+    "gn:modification_date":"2016-07-31",
+    "gn:name":"Crocus Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Anguilla",
+    "iso:country":"AI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saint Mary\u2019s",
+        "Crocus Hill"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632283,
+        85667729,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573480
+    },
+    "wof:country":"AI",
+    "wof:geomhash":"51c6494f9e8cb92a2ba971baf49ffaae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632283,
+            "empire_id":136253055,
+            "locality_id":1276892315,
+            "region_id":85667729
+        }
+    ],
+    "wof:id":1276892315,
+    "wof:lastmodified":1537583953,
+    "wof:name":"Crocus Hill",
+    "wof:parent_id":85667729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ai",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.06393000000001,
+    18.2172,
+    -63.06393000000001,
+    18.2172
+],
+  "geometry": {"coordinates":[-63.06393000000001,18.2172],"type":"Point"}
+}
