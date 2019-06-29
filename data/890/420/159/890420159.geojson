@@ -21,11 +21,17 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09bf \u0997\u09cd\u09b0\u09be\u0989\u09a8\u09cd\u09a1"
     ],
+    "name:cym_x_preferred":[
+        "Sandy Ground"
+    ],
     "name:dan_x_preferred":[
         "Sandy Ground"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sandy Ground"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03ac\u03bd\u03c4\u03c5 \u0393\u03ba\u03c1\u03ac\u03bf\u03c5\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Sandy Ground"
@@ -33,14 +39,8 @@
     "name:fin_x_preferred":[
         "Sandy Ground"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sandy Ground"
-    ],
-    "name:ger_x_preferred":[
-        "Sandy Ground"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03ac\u03bd\u03c4\u03c5 \u0393\u03ba\u03c1\u03ac\u03bf\u03c5\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0aa1\u0ac0 \u0a97\u0acd\u0ab0\u0abe\u0a89\u0aa8\u0acd\u0aa1"
@@ -72,7 +72,10 @@
     "name:mar_x_preferred":[
         "\u0938\u0901\u0921\u0940 \u0917\u094d\u0930\u093e\u0909\u0902\u0921"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Sandy Ground"
+    ],
+    "name:nld_x_preferred":[
         "Sandy Ground"
     ],
     "name:nob_x_preferred":[
@@ -117,9 +120,6 @@
     "name:vie_x_preferred":[
         "Sandy Ground"
     ],
-    "name:wel_x_preferred":[
-        "Sandy Ground"
-    ],
     "qs:name":"Sandy Ground Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -154,7 +154,7 @@
         }
     ],
     "wof:id":890420159,
-    "wof:lastmodified":1527792807,
+    "wof:lastmodified":1561777393,
     "wof:name":"Sandy Ground Village",
     "wof:parent_id":85667721,
     "wof:placetype":"locality",
