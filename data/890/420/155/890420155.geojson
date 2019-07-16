@@ -15,6 +15,111 @@
     "iso:country":"AI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0630\u0627 \u0641\u0627\u0631\u064a\u0646\u062c\u062a\u0648\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09bf \u09ab\u09be\u09b0\u09bf\u0982\u099f\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "The Farrington"
+    ],
+    "name:dan_x_preferred":[
+        "The Farrington"
+    ],
+    "name:deu_x_preferred":[
+        "Farrington"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0394\u03b5 \u03a6\u03ac\u03c1\u03c1\u03b9\u03bd\u03b3\u03ba\u03c4\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "The Farrington"
+    ],
+    "name:fin_x_preferred":[
+        "The Farrington"
+    ],
+    "name:fra_x_preferred":[
+        "The Farrington"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aab\u0ac7\u0ab0\u0abf\u0a82\u0a97\u0acd\u0a9f\u0aa8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u0947\u0930\u093f\u0902\u0917\u091f\u0928"
+    ],
+    "name:ind_x_preferred":[
+        "The Farrington"
+    ],
+    "name:ita_x_preferred":[
+        "The Farrington"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30fc\u30ea\u30f3\u30c8"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca6\u0cbf \u0cab\u0cb0\u0cbf\u0c82\u0c97\u0ccd\u0c9f\u0ca8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub354 \ud398\ub9c1\ud134"
+    ],
+    "name:lav_x_preferred":[
+        "Faringtona"
+    ],
+    "name:lit_x_preferred":[
+        "Faringtonas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092b\u0930\u094d\u0917\u093f\u0902\u0917\u094d\u091f\u0928"
+    ],
+    "name:msa_x_preferred":[
+        "The Farrington"
+    ],
+    "name:nld_x_preferred":[
+        "The Farrington"
+    ],
+    "name:nob_x_preferred":[
+        "Farrington"
+    ],
+    "name:pol_x_preferred":[
+        "The Farrington"
+    ],
+    "name:por_x_preferred":[
+        "Farrington"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435-\u0424\u0430\u0440\u0440\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc6\u0dbb\u0dd2\u0db1\u0dca\u0da7\u0db1\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "El Farrington"
+    ],
+    "name:swe_x_preferred":[
+        "The Farrington"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bbf  \u0baa\u0bb1\u0bcd\u0bb0\u0bbf\u0b99\u0bcd\u0b95\u0bcd\u0b9f\u0bcb\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c26\u0c3f \u0c2b\u0c3e\u0c30\u0c3f\u0c02\u0c17\u0c4d\u0c1f\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e14\u0e2d\u0e30\u0e1f\u0e32\u0e23\u0e34\u0e07\u0e15\u0e31\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "The Farrington"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435-\u0424\u0430\u0440\u0456\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06be\u06d2 \u0641\u0627\u0631\u06cc\u0646\u062c\u062a\u0648\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn The Farrington"
+    ],
     "qs:name":"The Farrington",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -42,7 +147,7 @@
         }
     ],
     "wof:id":890420155,
-    "wof:lastmodified":1527792810,
+    "wof:lastmodified":1563309054,
     "wof:name":"The Farrington",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
