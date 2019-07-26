@@ -25,6 +25,15 @@
     "iso:country":"AI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03ac\u03bf\u03c5\u03b8 \u03a7\u03b9\u03bb"
+    ],
+    "name:fra_x_preferred":[
+        "South Hill"
+    ],
+    "name:pol_x_preferred":[
+        "South Hill"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632283
@@ -43,7 +52,7 @@
         }
     ],
     "wof:id":1209136279,
-    "wof:lastmodified":1537486026,
+    "wof:lastmodified":1564149066,
     "wof:name":"South Hill Village",
     "wof:parent_id":85632283,
     "wof:placetype":"locality",

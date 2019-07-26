@@ -25,7 +25,13 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Island Harbour"
+    ],
     "name:eng_x_preferred":[
+        "Island Harbour"
+    ],
+    "name:swe_x_preferred":[
         "Island Harbour"
     ],
     "ne:abbrev":"",
@@ -145,7 +151,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550297,
+    "wof:lastmodified":1564149062,
     "wof:name":"Island Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"region",

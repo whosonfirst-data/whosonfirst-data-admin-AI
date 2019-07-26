@@ -25,11 +25,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "North Hill"
+    ],
     "name:eng_x_preferred":[
         "North Hill"
     ],
     "name:eng_x_variant":[
         "N Hill"
+    ],
+    "name:pol_x_preferred":[
+        "North Hill"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AIA",
@@ -150,7 +156,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550298,
+    "wof:lastmodified":1564149063,
     "wof:name":"North Hill",
     "wof:parent_id":85632283,
     "wof:placetype":"region",
