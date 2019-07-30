@@ -25,6 +25,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "George Hill"
+    ],
     "name:deu_x_preferred":[
         "George Hill"
     ],
@@ -34,7 +37,13 @@
     "name:fra_x_preferred":[
         "George Hill"
     ],
+    "name:hye_x_preferred":[
+        "\u054b\u0578\u0580\u057b \u0540\u056b\u056c"
+    ],
     "name:ita_x_preferred":[
+        "George Hill"
+    ],
+    "name:nor_x_preferred":[
         "George Hill"
     ],
     "name:pol_x_preferred":[
@@ -42,6 +51,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0425\u0438\u043b\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "George Hill"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AIA",
@@ -163,7 +175,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550297,
+    "wof:lastmodified":1564149062,
     "wof:name":"George Hill",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

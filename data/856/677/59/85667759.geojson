@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "S Hill"
     ],
+    "name:fra_x_preferred":[
+        "South Hill"
+    ],
     "name:hbs_x_preferred":[
         "Saut Hil"
     ],
@@ -177,7 +180,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550298,
+    "wof:lastmodified":1564149062,
     "wof:name":"South Hill",
     "wof:parent_id":-1,
     "wof:placetype":"region",
