@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NH"
+    ],
     "lbl:latitude":18.2247,
     "lbl:longitude":-63.065449,
     "mps:latitude":18.2247,
@@ -147,16 +150,13 @@
         }
     ],
     "wof:id":85667739,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1564149063,
+    "wof:lastmodified":1565651718,
     "wof:name":"North Hill",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GH"
+    ],
     "lbl:latitude":18.210799,
     "lbl:longitude":-63.06715,
     "mps:latitude":18.210799,
@@ -166,16 +169,13 @@
         }
     ],
     "wof:id":85667729,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1564149062,
+    "wof:lastmodified":1565651717,
     "wof:name":"George Hill",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

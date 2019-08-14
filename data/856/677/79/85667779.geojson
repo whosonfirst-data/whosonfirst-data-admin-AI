@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WE"
+    ],
     "lbl:latitude":18.185221,
     "lbl:longitude":-63.13968,
     "mps:latitude":18.185221,
@@ -178,16 +181,13 @@
         }
     ],
     "wof:id":85667779,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1564149064,
+    "wof:lastmodified":1565651718,
     "wof:name":"West End",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

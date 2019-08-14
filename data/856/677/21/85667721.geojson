@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BP"
+    ],
     "lbl:latitude":18.191957,
     "lbl:longitude":-63.093009,
     "mps:latitude":18.191957,
@@ -138,16 +141,13 @@
         }
     ],
     "wof:id":85667721,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550297,
+    "wof:lastmodified":1565651717,
     "wof:name":"Blowing Point",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

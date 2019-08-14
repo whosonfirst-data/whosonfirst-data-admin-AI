@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SO"
+    ],
     "lbl:latitude":18.203694,
     "lbl:longitude":-63.10848,
     "mps:latitude":18.203694,
@@ -171,16 +174,13 @@
         }
     ],
     "wof:id":85667759,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1564149062,
+    "wof:lastmodified":1565651717,
     "wof:name":"South Hill",
     "wof:parent_id":-1,
     "wof:placetype":"region",

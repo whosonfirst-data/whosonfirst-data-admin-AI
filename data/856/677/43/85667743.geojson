@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NS"
+    ],
     "lbl:latitude":18.260739,
     "lbl:longitude":-63.032634,
     "mps:latitude":18.260739,
@@ -159,16 +162,13 @@
         }
     ],
     "wof:id":85667743,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550298,
+    "wof:lastmodified":1565651717,
     "wof:name":"North Side",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

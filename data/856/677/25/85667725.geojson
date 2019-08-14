@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EE"
+    ],
     "lbl:latitude":18.264542,
     "lbl:longitude":-62.989554,
     "mps:latitude":18.264542,
@@ -141,16 +144,13 @@
         }
     ],
     "wof:id":85667725,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550297,
+    "wof:lastmodified":1565651718,
     "wof:name":"East End",
     "wof:parent_id":85632283,
     "wof:placetype":"region",
