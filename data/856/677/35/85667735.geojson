@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":18.270575,
     "lbl:longitude":-63.001944,
+    "lbl:min_zoom":8.0,
     "mps:latitude":18.270575,
     "mps:longitude":-63.001944,
     "mz:hierarchy_label":1,
@@ -107,9 +108,9 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-11",
+    "src:population_date":"2011-05-11",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2011-05-11",
@@ -123,7 +124,6 @@
     "statoids:timezone":"-4",
     "statoids:type":"district",
     "wd:wordcount":56,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191575
     ],
@@ -133,7 +133,7 @@
         "gn:id":-99,
         "gp:id":24549653,
         "hasc:id":"AI.IH",
-        "qs:id":1182109
+        "qs_pg:id":1182109
     },
     "wof:country":"AI",
     "wof:geomhash":"8e7d6915a6c2b8726e5b474a894d1a6a",
@@ -151,11 +151,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565651717,
+    "wof:lastmodified":1566584583,
     "wof:name":"Island Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":988,
     "wof:population_rank":2,

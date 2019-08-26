@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":18.185221,
     "lbl:longitude":-63.13968,
+    "lbl:min_zoom":8.0,
     "mps:latitude":18.185221,
     "mps:longitude":-63.13968,
     "mz:hierarchy_label":1,
@@ -140,9 +141,9 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-11",
+    "src:population_date":"2011-05-11",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2011-05-11",
@@ -167,7 +168,7 @@
         "gn:id":-99,
         "gp:id":24549647,
         "hasc:id":"AI.WE",
-        "qs:id":135904
+        "qs_pg:id":135904
     },
     "wof:country":"AI",
     "wof:geomhash":"910652ce2c789a5978d26538127d8bc9",
@@ -187,11 +188,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565651718,
+    "wof:lastmodified":1566584584,
     "wof:name":"West End",
     "wof:parent_id":85632283,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":813,
     "wof:population_rank":2,

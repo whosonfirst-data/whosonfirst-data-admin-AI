@@ -11,10 +11,14 @@
     "geom:longitude":-63.08333,
     "gn:country":"AI",
     "gn:fcode":"PPL",
-    "gn:pop":942,
+    "gn:population":942,
     "iso:country":"AI",
+    "lbl:bbox":"-63.10333,18.14667,-63.06333,18.18667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0648\u064a\u0646\u063a \u0628\u0648\u064a\u0646\u062a"
     ],
@@ -100,7 +104,7 @@
         "Blowing Point Village"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bbf\u0bb2\u0bcb\u0bb5\u0bbf\u0b99\u0bcd  \u0baa\u0bbe\u0baf\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd "
+        "\u0baa\u0bbf\u0bb2\u0bcb\u0bb5\u0bbf\u0b99\u0bcd \u0baa\u0bbe\u0baf\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd "
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4d\u0c32\u0c4b\u0c35\u0c3f\u0c02\u0c17\u0c4d \u0c2a\u0c3e\u0c2f\u0c3f\u0c02\u0c1f\u0c4d"
@@ -134,7 +138,7 @@
     "wof:concordances":{
         "gn:id":3573496,
         "gp:id":12510830,
-        "qs:id":583464,
+        "qs_pg:id":583464,
         "wd:id":"Q4928593",
         "wk:page":"Blowing Point, Anguilla"
     },
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":890431777,
-    "wof:lastmodified":1563309053,
+    "wof:lastmodified":1566584587,
     "wof:name":"Blowing Point Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

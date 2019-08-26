@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Anguilla",
     "iso:country":"AI",
+    "lbl:bbox":"-63.06401,18.20919,-63.02401,18.24919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "North Side"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1209249671,
-    "wof:lastmodified":1564149065,
+    "wof:lastmodified":1566584585,
     "wof:name":"North Side",
     "wof:parent_id":85632283,
     "wof:placetype":"locality",
