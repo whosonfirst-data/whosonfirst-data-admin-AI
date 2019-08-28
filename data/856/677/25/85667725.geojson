@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":18.264542,
     "lbl:longitude":-62.989554,
+    "lbl:min_zoom":8.0,
     "mps:latitude":18.264542,
     "mps:longitude":-62.989554,
     "mz:hierarchy_label":1,
@@ -104,9 +105,9 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-11",
+    "src:population_date":"2011-05-11",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2011-05-11",
@@ -130,7 +131,7 @@
         "gn:id":-99,
         "gp:id":24549654,
         "hasc:id":"AI.EE",
-        "qs:id":1318374
+        "qs_pg:id":1318374
     },
     "wof:country":"AI",
     "wof:geomhash":"b31e002fb647f60e838fc58bc502ed09",
@@ -150,11 +151,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565651718,
+    "wof:lastmodified":1566584584,
     "wof:name":"East End",
     "wof:parent_id":85632283,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":671,
     "wof:population_rank":2,

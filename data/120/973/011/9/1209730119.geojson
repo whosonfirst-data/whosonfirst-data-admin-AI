@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Anguilla",
     "iso:country":"AI",
+    "lbl:bbox":"-63.04886,18.23385,-63.00886,18.27385",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shoal Village",
         "Shoal Bay Village"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209730119,
-    "wof:lastmodified":1537583953,
+    "wof:lastmodified":1566584586,
     "wof:name":"Shoal Bay Village",
     "wof:parent_id":85667743,
     "wof:placetype":"locality",

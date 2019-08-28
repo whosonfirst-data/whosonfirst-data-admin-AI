@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":18.235718,
     "lbl:longitude":-63.05878,
+    "lbl:min_zoom":8.0,
     "mps:latitude":18.235718,
     "mps:longitude":-63.05878,
     "mz:hierarchy_label":1,
@@ -125,9 +126,9 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-11",
+    "src:population_date":"2011-05-11",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2011-05-11",
@@ -151,7 +152,7 @@
         "gn:id":-99,
         "gp:id":24549659,
         "hasc:id":"AI.TV",
-        "qs:id":1085958
+        "qs_pg:id":1085958
     },
     "wof:country":"AI",
     "wof:geomhash":"81ba2288dddea9b094308cdc4f7086f4",
@@ -171,11 +172,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565651717,
+    "wof:lastmodified":1566584583,
     "wof:name":"The Valley",
     "wof:parent_id":85632283,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":1067,
     "wof:population_rank":3,
