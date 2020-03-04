@@ -154,6 +154,9 @@
     },
     "wof:country":"AI",
     "wof:created":1469052340,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5e2b97124707c97800ea05e568ec19b6",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":890441875,
-    "wof:lastmodified":1566584587,
+    "wof:lastmodified":1582326271,
     "wof:name":"The Valley",
     "wof:parent_id":85667765,
     "wof:placetype":"locality",

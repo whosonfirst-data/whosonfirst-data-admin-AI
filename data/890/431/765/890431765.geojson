@@ -73,6 +73,9 @@
     },
     "wof:country":"AI",
     "wof:created":1469051912,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3b7c5b65b72d4ac5feb0c0ba32f04fd8",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890431765,
-    "wof:lastmodified":1566584587,
+    "wof:lastmodified":1582326271,
     "wof:name":"East End Village",
     "wof:parent_id":85667755,
     "wof:placetype":"locality",
