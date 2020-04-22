@@ -71,7 +71,7 @@
         "\u0c90\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd \u0cb9\u0cbe\u0cb0\u0ccd\u0cac\u0cb0\u0ccd"
     ],
     "name:kan_x_variant":[
-        "\u0c90\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd \u0cb9\u0cbe\u0cb0\u0ccd\u0cac\u0cb0\u0ccd "
+        "\u0c90\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd \u0cb9\u0cbe\u0cb0\u0ccd\u0cac\u0cb0\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\uc544\uc77c\ub79c\ub4dc \ud558\ubc84"
@@ -119,7 +119,7 @@
         "\u0b90\u0bb8\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb9\u0bbe\u0bb0\u0bcd\u0baa\u0bb0\u0bcd"
     ],
     "name:tam_x_variant":[
-        "\u0b90\u0bb8\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb9\u0bbe\u0bb0\u0bcd\u0baa\u0bb0\u0bcd "
+        "\u0b90\u0bb8\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb9\u0bbe\u0bb0\u0bcd\u0baa\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c10\u0c32\u0c3e\u0c02\u0c21\u0c4d \u0c39\u0c3e\u0c30\u0c4d\u0c2c\u0c30\u0c4d"
@@ -137,7 +137,7 @@
         "\u0622\u0626\u06cc \u0644\u06cc\u0646\u0688 \u062d\u0627\u0631\u0628\u0648\u0648\u0631 \u060c \u0627\u0646\u062c\u0648\u06cc\u0644\u0627"
     ],
     "name:urd_x_variant":[
-        "\u0622\u0626\u06cc \u0644\u06cc\u0646\u0688 \u062d\u0627\u0631\u0628\u0648\u0648\u0631 "
+        "\u0622\u0626\u06cc \u0644\u06cc\u0646\u0688 \u062d\u0627\u0631\u0628\u0648\u0648\u0631"
     ],
     "name:vie_x_preferred":[
         "C\u1ea3ng \u0110\u1ea3o"
@@ -149,10 +149,10 @@
     "src:population":"geonames",
     "wd:wordcount":56,
     "wof:belongsto":[
-        85632283,
-        85667761,
         102191575,
-        136253055
+        85632283,
+        136253055,
+        85667761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -176,7 +176,7 @@
         }
     ],
     "wof:id":890439019,
-    "wof:lastmodified":1566584587,
+    "wof:lastmodified":1587163142,
     "wof:name":"Island Harbour",
     "wof:parent_id":85667761,
     "wof:placetype":"locality",
