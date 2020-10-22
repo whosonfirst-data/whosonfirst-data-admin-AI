@@ -9,7 +9,6 @@
     "geom:bbox":"-63.0613879584,18.1988511949,-63.030435282,18.2279128615",
     "geom:latitude":18.215884,
     "geom:longitude":-63.047479,
-    "gn:id":"",
     "iso:country":"AI",
     "label:eng_x_preferred_longname":[
         "The Farrington District"
@@ -252,7 +251,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566584583,
+    "wof:lastmodified":1603249306,
     "wof:name":"The Farrington",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

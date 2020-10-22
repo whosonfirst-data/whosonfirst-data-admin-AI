@@ -9,7 +9,6 @@
     "geom:bbox":"-63.0342289686,18.2150311254,-62.99440734,18.2561862174",
     "geom:latitude":18.235189,
     "geom:longitude":-63.013946,
-    "gn:id":"",
     "iso:country":"AI",
     "label:eng_x_preferred_longname":[
         "Sandy Hill District"
@@ -157,7 +156,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566584584,
+    "wof:lastmodified":1603249306,
     "wof:name":"Sandy Hill",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

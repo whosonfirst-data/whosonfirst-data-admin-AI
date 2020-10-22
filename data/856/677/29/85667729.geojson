@@ -9,7 +9,6 @@
     "geom:bbox":"-63.0726294795,18.2027604274,-63.0613076759,18.2191521032",
     "geom:latitude":18.210741,
     "geom:longitude":-63.067064,
-    "gn:id":"",
     "iso:country":"AI",
     "label:eng_x_preferred_longname":[
         "George Hill District"
@@ -176,7 +175,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566584583,
+    "wof:lastmodified":1603249306,
     "wof:name":"George Hill",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

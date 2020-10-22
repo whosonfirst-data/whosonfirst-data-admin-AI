@@ -9,7 +9,6 @@
     "geom:bbox":"-63.1227921209,18.1835829882,-63.0613076759,18.2195503194",
     "geom:latitude":18.204801,
     "geom:longitude":-63.100795,
-    "gn:id":"",
     "iso:country":"AI",
     "label:eng_x_preferred_longname":[
         "South Hill District"
@@ -180,7 +179,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566584583,
+    "wof:lastmodified":1603249305,
     "wof:name":"South Hill",
     "wof:parent_id":-1,
     "wof:placetype":"region",

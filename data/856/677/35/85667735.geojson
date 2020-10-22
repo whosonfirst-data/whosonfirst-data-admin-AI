@@ -9,7 +9,6 @@
     "geom:bbox":"-63.0075484775,18.2673362738,-62.9945229182,18.2748971099",
     "geom:latitude":18.270917,
     "geom:longitude":-63.002068,
-    "gn:id":"",
     "iso:country":"AI",
     "label:eng_x_preferred_longname":[
         "Island Harbour District"
@@ -151,7 +150,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566584583,
+    "wof:lastmodified":1603249306,
     "wof:name":"Island Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"region",

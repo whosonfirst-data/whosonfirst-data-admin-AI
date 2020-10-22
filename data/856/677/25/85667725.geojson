@@ -9,7 +9,6 @@
     "geom:bbox":"-63.0135217223,18.2345250558,-62.9256824614,18.2972510274",
     "geom:latitude":18.269751,
     "geom:longitude":-62.977169,
-    "gn:id":"",
     "iso:country":"AI",
     "label:eng_x_preferred_longname":[
         "East End District"
@@ -151,7 +150,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566584584,
+    "wof:lastmodified":1603249306,
     "wof:name":"East End",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

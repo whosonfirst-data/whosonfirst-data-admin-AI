@@ -9,7 +9,6 @@
     "geom:bbox":"-63.1678360667,18.1690941429,-63.1225993485,18.2080752624",
     "geom:latitude":18.185778,
     "geom:longitude":-63.140023,
-    "gn:id":"",
     "iso:country":"AI",
     "label:eng_x_preferred_longname":[
         "West End District"
@@ -188,7 +187,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566584584,
+    "wof:lastmodified":1603249306,
     "wof:name":"West End",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

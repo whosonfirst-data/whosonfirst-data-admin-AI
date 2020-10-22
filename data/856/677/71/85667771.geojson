@@ -9,7 +9,6 @@
     "geom:bbox":"-63.0469718898,18.2267182129,-63.0292976306,18.235164829",
     "geom:latitude":18.231228,
     "geom:longitude":-63.038416,
-    "gn:id":"",
     "iso:country":"AI",
     "label:eng_x_preferred_longname":[
         "The Quarter District"
@@ -148,7 +147,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566584584,
+    "wof:lastmodified":1603249306,
     "wof:name":"The Quarter",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

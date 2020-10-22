@@ -9,7 +9,6 @@
     "geom:bbox":"-63.0611647781,18.2354411619,-63.0222824807,18.27034975",
     "geom:latitude":18.254917,
     "geom:longitude":-63.04103,
-    "gn:id":"",
     "iso:country":"AI",
     "label:eng_x_preferred_longname":[
         "North Side District"
@@ -169,7 +168,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566584583,
+    "wof:lastmodified":1603249306,
     "wof:name":"North Side",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

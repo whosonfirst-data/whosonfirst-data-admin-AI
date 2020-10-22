@@ -9,7 +9,6 @@
     "geom:bbox":"-63.0481138607,18.2322667367,-62.9952037733,18.2719688283",
     "geom:latitude":18.251307,
     "geom:longitude":-63.024272,
-    "gn:id":"",
     "iso:country":"AI",
     "label:eng_x_preferred_longname":[
         "Stoney Ground District"
@@ -252,7 +251,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566584583,
+    "wof:lastmodified":1603249305,
     "wof:name":"Stoney Ground",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

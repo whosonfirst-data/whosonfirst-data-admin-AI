@@ -9,7 +9,6 @@
     "geom:bbox":"-63.1138722257,18.1761742212,-63.0613340431,18.2124846231",
     "geom:latitude":18.194222,
     "geom:longitude":-63.088233,
-    "gn:id":"",
     "iso:country":"AI",
     "label:eng_x_preferred_longname":[
         "Blowing Point District"
@@ -148,7 +147,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566584583,
+    "wof:lastmodified":1603249306,
     "wof:name":"Blowing Point",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

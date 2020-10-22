@@ -9,7 +9,6 @@
     "geom:bbox":"-63.0727178469,18.2267182129,-63.0441081355,18.2457836469",
     "geom:latitude":18.23462,
     "geom:longitude":-63.057805,
-    "gn:id":"",
     "iso:country":"AI",
     "label:eng_x_preferred_longname":[
         "The Valley District"
@@ -172,7 +171,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566584583,
+    "wof:lastmodified":1603249306,
     "wof:name":"The Valley",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

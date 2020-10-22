@@ -9,7 +9,6 @@
     "geom:bbox":"-63.0972387357,18.2124697941,-63.0755224222,18.2259668959",
     "geom:latitude":18.217873,
     "geom:longitude":-63.082362,
-    "gn:id":"",
     "iso:country":"AI",
     "label:eng_x_preferred_longname":[
         "Sandy Ground District"
@@ -148,7 +147,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566584584,
+    "wof:lastmodified":1603249306,
     "wof:name":"Sandy Ground",
     "wof:parent_id":85632283,
     "wof:placetype":"region",
