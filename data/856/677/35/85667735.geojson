@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000065,
     "geom:area_square_m":763429.397059,
-    "geom:bbox":"-63.0075484775,18.2673362738,-62.9945229182,18.2748971099",
+    "geom:bbox":"-63.007548,18.267336,-62.994523,18.274897",
     "geom:latitude":18.270917,
     "geom:longitude":-63.002068,
     "gn:id":"",
@@ -33,6 +33,9 @@
         "Island Harbour"
     ],
     "name:eng_x_preferred":[
+        "Island Harbour"
+    ],
+    "name:fra_x_preferred":[
         "Island Harbour"
     ],
     "name:swe_x_preferred":[
@@ -136,7 +139,7 @@
         "qs_pg:id":1182109
     },
     "wof:country":"AI",
-    "wof:geomhash":"8e7d6915a6c2b8726e5b474a894d1a6a",
+    "wof:geomhash":"0cb9bd22668a987b20e254f59f497ff0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,7 +154,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566584583,
+    "wof:lastmodified":1627521474,
     "wof:name":"Island Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"region",
@@ -165,10 +168,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -63.00754847748021,
-    18.26733627384999,
-    -62.99452291819807,
-    18.27489710991375
+    -63.007548,
+    18.267336,
+    -62.994523,
+    18.274897
 ],
-  "geometry": {"coordinates":[[[-63.00739498568998,18.27301666888422],[-62.99452291819807,18.27489710991375],[-62.99998236869135,18.26733627384999],[-63.00754847748021,18.26733627384999],[-63.00739498568998,18.27301666888422]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-63.007395,18.273017],[-62.994523,18.274897],[-62.999982,18.267336],[-63.007548,18.267336],[-63.007395,18.273017]]],"type":"Polygon"}
 }
