@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000892,
     "geom:area_square_m":10479475.122992,
-    "geom:bbox":"-63.1678360667,18.1690941429,-63.1225993485,18.2080752624",
+    "geom:bbox":"-63.167836,18.169094,-63.122599,18.208075",
     "geom:latitude":18.185778,
-    "geom:longitude":-63.140023,
+    "geom:longitude":-63.140022,
     "gn:id":"",
     "iso:country":"AI",
     "label:eng_x_preferred_longname":[
@@ -48,6 +48,9 @@
         "West End"
     ],
     "name:kor_x_preferred":[
+        "\uc6e8\uc2a4\ud2b8 \uc5d4\ub4dc"
+    ],
+    "name:kor_x_variant":[
         "\uc6e8\uc2a4\ud2b8\uc5d4\ub4dc"
     ],
     "name:nld_x_preferred":[
@@ -57,6 +60,9 @@
         "West End"
     ],
     "name:pol_x_preferred":[
+        "West End"
+    ],
+    "name:por_x_preferred":[
         "West End"
     ],
     "name:rus_x_preferred":[
@@ -70,6 +76,24 @@
     ],
     "name:swe_x_preferred":[
         "West End"
+    ],
+    "name:tur_x_preferred":[
+        "West End"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0441\u0442-\u0415\u043d\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0633\u0679 \u0627\u06cc\u0646\u0688"
+    ],
+    "name:vie_x_preferred":[
+        "West End"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u897f\u5c3e"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u897f\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AIA",
@@ -171,7 +195,7 @@
         "qs_pg:id":135904
     },
     "wof:country":"AI",
-    "wof:geomhash":"910652ce2c789a5978d26538127d8bc9",
+    "wof:geomhash":"4dfc9492f90407de99fb5e77d609d7eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -188,7 +212,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566584584,
+    "wof:lastmodified":1636496652,
     "wof:name":"West End",
     "wof:parent_id":85632283,
     "wof:placetype":"region",
@@ -202,10 +226,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -63.1678360666811,
-    18.16909414288045,
-    -63.12259934848112,
-    18.20807526236354
+    -63.167836,
+    18.169094,
+    -63.122599,
+    18.208075
 ],
-  "geometry": {"coordinates":[[[-63.12259934848112,18.1835829881644],[-63.13683020704838,18.17340729411137],[-63.15050208210539,18.16909414288045],[-63.1678360666811,18.16933828363494],[-63.14207923057199,18.19814687737653],[-63.13434811057681,18.20408763243836],[-63.12279212085963,18.20807526236354],[-63.12259934848112,18.1835829881644]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-63.122599,18.183583],[-63.13683,18.173407],[-63.150502,18.169094],[-63.167836,18.169338],[-63.142079,18.198147],[-63.134348,18.204088],[-63.122792,18.208075],[-63.122599,18.183583]]],"type":"Polygon"}
 }

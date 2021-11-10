@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0006,
     "geom:area_square_m":7049118.636156,
-    "geom:bbox":"-63.0611647781,18.2354411619,-63.0222824807,18.27034975",
+    "geom:bbox":"-63.061165,18.235441,-63.022282,18.27035",
     "geom:latitude":18.254917,
-    "geom:longitude":-63.04103,
+    "geom:longitude":-63.041029,
     "gn:id":"",
     "iso:country":"AI",
     "label:eng_x_preferred_longname":[
@@ -42,6 +42,9 @@
         "North Side"
     ],
     "name:kor_x_preferred":[
+        "\ub178\uc2a4 \uc0ac\uc774\ub4dc"
+    ],
+    "name:kor_x_variant":[
         "\ub178\uc2a4\uc0ac\uc774\ub4dc"
     ],
     "name:nds_x_preferred":[
@@ -52,6 +55,33 @@
     ],
     "name:pol_x_preferred":[
         "Northside"
+    ],
+    "name:por_x_preferred":[
+        "North Side"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0440\u0442-\u0421\u0430\u0439\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "North Side"
+    ],
+    "name:tur_x_preferred":[
+        "Kuzey Taraf\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0440\u0442-\u0421\u0430\u0439\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0631\u062a\u06be \u0633\u0627\u0626\u06cc\u0688"
+    ],
+    "name:vie_x_preferred":[
+        "North Side"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5317\u533a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5317\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AIA",
@@ -152,7 +182,7 @@
         "qs_pg:id":1191167
     },
     "wof:country":"AI",
-    "wof:geomhash":"4ad93e7e5f29674fe54a826818d15441",
+    "wof:geomhash":"8391b5f7c15faf545221e75a144b15f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -169,7 +199,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566584583,
+    "wof:lastmodified":1636496651,
     "wof:name":"North Side",
     "wof:parent_id":85632283,
     "wof:placetype":"region",
@@ -183,10 +213,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -63.06116477813197,
-    18.23544116188015,
-    -63.02228248065194,
-    18.27034975004096
+    -63.061165,
+    18.235441,
+    -63.022282,
+    18.27035
 ],
-  "geometry": {"coordinates":[[[-63.04811386066609,18.23544116188015],[-63.06116477813197,18.24578364689785],[-63.05508378818621,18.25433991105808],[-63.03819739529354,18.26772695553461],[-63.02292465864605,18.27034975004096],[-63.02228248065194,18.26255767849409],[-63.02586642649436,18.25300048778234],[-63.03900756394791,18.25260227157764],[-63.04811386066609,18.23544116188015]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-63.048114,18.235441],[-63.061165,18.245784],[-63.055084,18.25434],[-63.038197,18.267727],[-63.022925,18.27035],[-63.022282,18.262558],[-63.025866,18.253],[-63.039008,18.252602],[-63.048114,18.235441]]],"type":"Polygon"}
 }

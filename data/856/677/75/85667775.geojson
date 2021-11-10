@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
     "geom:area_square_m":3208722.48551,
-    "geom:bbox":"-63.0727178469,18.2267182129,-63.0441081355,18.2457836469",
+    "geom:bbox":"-63.072718,18.226718,-63.044108,18.245784",
     "geom:latitude":18.23462,
     "geom:longitude":-63.057805,
     "gn:id":"",
@@ -29,11 +29,20 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0630\u0627 \u0641\u0627\u0644\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09cd\u09af \u09ad\u09cd\u09af\u09be\u09b2\u09bf"
+    ],
     "name:ceb_x_preferred":[
         "The Valley"
     ],
     "name:deu_x_preferred":[
         "The Valley"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03b5 \u0392\u03ac\u03bb\u03b5\u03ca"
     ],
     "name:eng_x_preferred":[
         "The Valley"
@@ -44,17 +53,65 @@
     "name:fra_x_preferred":[
         "The Valley"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e2\u05de\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0918\u093e\u091f\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "The Valley"
+    ],
+    "name:ind_x_preferred":[
+        "The Valley"
+    ],
+    "name:ita_x_preferred":[
+        "The Valley"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30fb\u30d0\u30ec\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ub354 \ubc38\ub9ac"
+    ],
     "name:nld_x_preferred":[
         "The Valley"
     ],
     "name:pol_x_preferred":[
         "The Valley"
     ],
+    "name:por_x_preferred":[
+        "The Valley"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044d\u043b\u043b\u0438"
+    ],
     "name:spa_x_preferred":[
+        "El Valle"
+    ],
+    "name:spa_x_variant":[
         "The Valley"
     ],
     "name:swe_x_preferred":[
         "The Valley"
+    ],
+    "name:tur_x_preferred":[
+        "The Valley"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043e\u043b\u043b\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc \u0648\u06cc\u0644\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "The Valley"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u74e6\u5229"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5c71\u8c37"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AIA",
@@ -155,7 +212,7 @@
         "qs_pg:id":1085958
     },
     "wof:country":"AI",
-    "wof:geomhash":"81ba2288dddea9b094308cdc4f7086f4",
+    "wof:geomhash":"b11ad96300a4623289bbbcb4c8160b17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -172,7 +229,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566584583,
+    "wof:lastmodified":1636496651,
     "wof:name":"The Valley",
     "wof:parent_id":85632283,
     "wof:placetype":"region",
@@ -186,10 +243,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -63.07271784685111,
-    18.22671821287526,
-    -63.04410813548202,
-    18.24578364689785
+    -63.072718,
+    18.226718,
+    -63.044108,
+    18.245784
 ],
-  "geometry": {"coordinates":[[[-63.04811386066609,18.23544116188015],[-63.04410813548202,18.23226673672059],[-63.04697188984079,18.22671821287526],[-63.07271784685111,18.23134911347086],[-63.06777910112459,18.2364769551474],[-63.06116477813197,18.24578364689785],[-63.04811386066609,18.23544116188015]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-63.048114,18.235441],[-63.044108,18.232267],[-63.046972,18.226718],[-63.072718,18.231349],[-63.067779,18.236477],[-63.061165,18.245784],[-63.048114,18.235441]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
     "geom:area_square_m":1252239.9368,
-    "geom:bbox":"-63.0726294795,18.2027604274,-63.0613076759,18.2191521032",
+    "geom:bbox":"-63.072629,18.20276,-63.061308,18.219152",
     "geom:latitude":18.210741,
     "geom:longitude":-63.067064,
     "gn:id":"",
@@ -54,10 +54,31 @@
         "George Hill"
     ],
     "name:rus_x_preferred":[
+        "\u0414\u0436\u043e\u0440\u0436-\u0425\u0438\u043b\u043b"
+    ],
+    "name:rus_x_variant":[
         "\u0425\u0438\u043b\u043b"
     ],
     "name:swe_x_preferred":[
         "George Hill"
+    ],
+    "name:tur_x_preferred":[
+        "George Hill"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u043e\u0440\u0436-\u0425\u0456\u043b\u043b"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0627\u0631\u062c \u06c1\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "George Hill"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4e54\u6cbb\u5c71"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u55ac\u6cbb\u5e0c\u723e"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AIA",
@@ -159,7 +180,7 @@
         "qs_pg:id":352450
     },
     "wof:country":"AI",
-    "wof:geomhash":"6192c8837f7fcd8313bd7e3aca80b634",
+    "wof:geomhash":"652192bc773e59f7e8c38bde8bc8d6d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -176,7 +197,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566584583,
+    "wof:lastmodified":1636496651,
     "wof:name":"George Hill",
     "wof:parent_id":85632283,
     "wof:placetype":"region",
@@ -190,10 +211,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -63.07262947946685,
-    18.2027604273519,
-    -63.06130767590849,
-    18.21915210318707
+    -63.072629,
+    18.20276,
+    -63.061308,
+    18.219152
 ],
-  "geometry": {"coordinates":[[[-63.06133404313152,18.21248462306693],[-63.0654518247419,18.20581654130041],[-63.07211970955689,18.2027604273519],[-63.07262947946685,18.21213258525069],[-63.06130767590849,18.21915210318707],[-63.06133404313152,18.21248462306693]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-63.061334,18.212485],[-63.065452,18.205817],[-63.07212,18.20276],[-63.072629,18.212133],[-63.061308,18.219152],[-63.061334,18.212485]]],"type":"Polygon"}
 }
