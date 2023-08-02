@@ -116,6 +116,9 @@
     "name:tam_x_preferred":[
         "\u0bb8\u0bcd\u0b9f\u0bcb\u0ba9\u0bbf \u0b95\u0bbf\u0bb0\u0bcc\u0ba3\u0bcd\u0b9f\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bb8\u0bcd\u0b9f\u0bcb\u0ba9\u0bbf  \u0b95\u0bbf\u0bb0\u0bcc\u0ba3\u0bcd\u0b9f\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c1f\u0c4b\u0c28\u0c40 \u0c17\u0c4d\u0c30\u0c4c\u0c02\u0c21\u0c4d"
     ],
@@ -261,7 +264,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496650,
+    "wof:lastmodified":1690849751,
     "wof:name":"Stoney Ground",
     "wof:parent_id":85632283,
     "wof:placetype":"region",
