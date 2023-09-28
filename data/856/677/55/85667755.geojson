@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00099,
-    "geom:area_square_m":11627404.427083,
+    "geom:area_square_m":11627604.122154,
     "geom:bbox":"-63.034229,18.215031,-62.994407,18.256186",
     "geom:latitude":18.235189,
     "geom:longitude":-63.013946,
@@ -196,8 +196,9 @@
         "hasc:id":"AI.SH",
         "qs_pg:id":1311242
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AI",
-    "wof:geomhash":"88c8f2d202a12817420fc984f70d9ec8",
+    "wof:geomhash":"e85ea73fbef24ef566157fb186e61821",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -214,7 +215,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496652,
+    "wof:lastmodified":1695884842,
     "wof:name":"Sandy Hill",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

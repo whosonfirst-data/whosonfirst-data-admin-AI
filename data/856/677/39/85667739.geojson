@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000246,
-    "geom:area_square_m":2889887.364156,
+    "geom:area_square_m":2889859.299925,
     "geom:bbox":"-63.077902,18.216271,-63.046972,18.231349",
     "geom:latitude":18.224651,
     "geom:longitude":-63.065449,
@@ -199,8 +199,9 @@
         "hasc:id":"AI.NH",
         "qs_pg:id":1191166
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AI",
-    "wof:geomhash":"f2b3917ba86cf1019933b8e284591cd3",
+    "wof:geomhash":"f6791fcfe765f0c52d4cecf2414cc23b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -217,7 +218,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496652,
+    "wof:lastmodified":1695884842,
     "wof:name":"North Hill",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

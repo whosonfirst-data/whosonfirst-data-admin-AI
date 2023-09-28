@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000877,
-    "geom:area_square_m":10299460.418089,
+    "geom:area_square_m":10299554.561419,
     "geom:bbox":"-63.113872,18.176174,-63.061334,18.212485",
     "geom:latitude":18.194222,
     "geom:longitude":-63.088232,
@@ -205,8 +205,9 @@
         "hasc:id":"AI.BP",
         "qs_pg:id":135905
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AI",
-    "wof:geomhash":"904df27ec39df2d6b05f989282018b90",
+    "wof:geomhash":"6c0caee4e96089d7b50a4db77288e120",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -223,7 +224,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496651,
+    "wof:lastmodified":1695884842,
     "wof:name":"Blowing Point",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

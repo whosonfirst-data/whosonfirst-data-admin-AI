@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000678,
-    "geom:area_square_m":7968242.221822,
+    "geom:area_square_m":7968303.32265,
     "geom:bbox":"-63.122792,18.183583,-63.061308,18.21955",
     "geom:latitude":18.204801,
     "geom:longitude":-63.100794,
@@ -212,8 +212,9 @@
         "hasc:id":"AI.SO",
         "qs_pg:id":954736
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AI",
-    "wof:geomhash":"68741a44e166dd5748ba7eee2d3a3ff8",
+    "wof:geomhash":"10d1488ae5d3c5d188ea1dd3075ffaeb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -228,7 +229,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496650,
+    "wof:lastmodified":1695884842,
     "wof:name":"South Hill",
     "wof:parent_id":-1,
     "wof:placetype":"region",
