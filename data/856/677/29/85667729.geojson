@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
-    "geom:area_square_m":1252239.9368,
+    "geom:area_square_m":1252197.866494,
     "geom:bbox":"-63.072629,18.20276,-63.061308,18.219152",
     "geom:latitude":18.210741,
     "geom:longitude":-63.067064,
@@ -179,8 +179,9 @@
         "hasc:id":"AI.GH",
         "qs_pg:id":352450
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AI",
-    "wof:geomhash":"652192bc773e59f7e8c38bde8bc8d6d0",
+    "wof:geomhash":"be3f2443400073d92cd6da2bf0e84762",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -197,7 +198,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496651,
+    "wof:lastmodified":1695884842,
     "wof:name":"George Hill",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

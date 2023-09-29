@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001102,
-    "geom:area_square_m":12939353.863491,
+    "geom:area_square_m":12939333.132051,
     "geom:bbox":"-63.013522,18.234525,-62.925682,18.297251",
     "geom:latitude":18.269751,
     "geom:longitude":-62.977169,
@@ -199,8 +199,9 @@
         "hasc:id":"AI.EE",
         "qs_pg:id":1318374
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AI",
-    "wof:geomhash":"69e28b5e67e4c89e107b3369e354038a",
+    "wof:geomhash":"8889119036c00bb243d16102aec3db6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -217,7 +218,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496652,
+    "wof:lastmodified":1695884842,
     "wof:name":"East End",
     "wof:parent_id":85632283,
     "wof:placetype":"region",

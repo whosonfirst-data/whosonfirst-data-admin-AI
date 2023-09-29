@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
-    "geom:area_square_m":3208722.48551,
+    "geom:area_square_m":3208795.623903,
     "geom:bbox":"-63.072718,18.226718,-63.044108,18.245784",
     "geom:latitude":18.23462,
     "geom:longitude":-63.057805,
@@ -211,8 +211,9 @@
         "hasc:id":"AI.TV",
         "qs_pg:id":1085958
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AI",
-    "wof:geomhash":"b11ad96300a4623289bbbcb4c8160b17",
+    "wof:geomhash":"3a5f06ec2dcdd360226b2a841bbbfc63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -229,7 +230,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496651,
+    "wof:lastmodified":1695884842,
     "wof:name":"The Valley",
     "wof:parent_id":85632283,
     "wof:placetype":"region",
