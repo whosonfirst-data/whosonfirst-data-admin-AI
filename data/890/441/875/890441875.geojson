@@ -9,9 +9,22 @@
     "geom:bbox":"-63.05783,18.21704,-63.05783,18.21704",
     "geom:latitude":18.21704,
     "geom:longitude":-63.05783,
+    "gn:admin1_code":"11205396",
+    "gn:asciiname":"The Valley",
     "gn:country":"AI",
+    "gn:country_code":"AI",
+    "gn:dem":19,
+    "gn:elevation":"7.0",
     "gn:fcode":"PPLC",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLC",
+    "gn:geonameid":3573374,
+    "gn:latitude":18.21704,
+    "gn:longitude":-63.05783,
+    "gn:modification_date":"2016-07-31",
+    "gn:name":"The Valley",
     "gn:population":2035,
+    "gn:timezone":"America/Anguilla",
     "iso:country":"AI",
     "lbl:bbox":"-63.07783,18.19704,-63.03783,18.23704",
     "lbl:max_zoom":15.0,
@@ -19,13 +32,43 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "The Valley"
+    ],
+    "name:ara_x_preferred":[
+        "\u0630\u0627 \u0641\u0627\u0644\u064a"
+    ],
+    "name:arg_x_preferred":[
+        "The Valley"
+    ],
+    "name:ast_x_preferred":[
+        "El Valle"
+    ],
+    "name:aze_x_preferred":[
+        "Valley"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0430\u043b\u0456"
+    ],
+    "name:bel_x_variant":[
+        "\u0412\u044d\u043b\u0456"
+    ],
+    "name:bos_x_preferred":[
+        "The Valley"
     ],
     "name:bul_x_preferred":[
         "\u0412\u0430\u043b\u0438"
     ],
+    "name:cat_x_preferred":[
+        "The Valley"
+    ],
     "name:ceb_x_preferred":[
+        "The Valley"
+    ],
+    "name:ces_x_preferred":[
+        "The Valley"
+    ],
+    "name:cym_x_preferred":[
         "The Valley"
     ],
     "name:dan_x_preferred":[
@@ -43,6 +86,9 @@
     "name:epo_x_preferred":[
         "La-Valo"
     ],
+    "name:est_x_preferred":[
+        "The Valley"
+    ],
     "name:fas_x_preferred":[
         "\u062f \u0648\u0644\u06cc"
     ],
@@ -55,8 +101,17 @@
     "name:fra_x_preferred":[
         "The Valley"
     ],
+    "name:glg_x_preferred":[
+        "The Valley"
+    ],
     "name:heb_x_preferred":[
         "\u05d4\u05d5\u05d5\u05d0\u05dc\u05d9"
+    ],
+    "name:hrv_x_preferred":[
+        "The Valley"
+    ],
+    "name:hun_x_preferred":[
+        "The Valley"
     ],
     "name:ido_x_preferred":[
         "The Valley"
@@ -64,8 +119,14 @@
     "name:ind_x_preferred":[
         "The Valley"
     ],
+    "name:isl_x_preferred":[
+        "The Valley"
+    ],
     "name:ita_x_preferred":[
         "The Valley"
+    ],
+    "name:jam_x_preferred":[
+        "Di Vali"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30ec\u30fc"
@@ -79,10 +140,31 @@
     "name:kor_x_preferred":[
         "\ub354\ubc38\ub9ac"
     ],
+    "name:lav_x_preferred":[
+        "Veli"
+    ],
     "name:lit_x_preferred":[
         "Valis"
     ],
+    "name:lmo_x_preferred":[
+        "The Valley"
+    ],
+    "name:msa_x_preferred":[
+        "The Valley"
+    ],
     "name:nld_x_preferred":[
+        "The Valley"
+    ],
+    "name:nno_x_preferred":[
+        "The Valley"
+    ],
+    "name:nor_x_preferred":[
+        "The Valley"
+    ],
+    "name:oci_x_preferred":[
+        "The Valley"
+    ],
+    "name:pms_x_preferred":[
         "The Valley"
     ],
     "name:pol_x_preferred":[
@@ -93,6 +175,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u043b\u043b\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "The Valley"
     ],
     "name:slk_x_preferred":[
         "The Valley"
@@ -115,6 +200,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e14\u0e2d\u0e30\u0e41\u0e27\u0e25\u0e25\u0e35\u0e22\u0e4c"
     ],
+    "name:tur_x_preferred":[
+        "The Valley"
+    ],
     "name:ukr_x_preferred":[
         "\u0423\u043e\u043b\u043b\u0456"
     ],
@@ -128,6 +216,12 @@
         "\u062f\u06cc \u0648\u06cc\u0644\u06cc"
     ],
     "name:vie_x_preferred":[
+        "The Valley"
+    ],
+    "name:war_x_preferred":[
+        "The Valley"
+    ],
+    "name:yor_x_preferred":[
         "The Valley"
     ],
     "name:zho_cn_x_preferred":[
@@ -162,7 +256,15 @@
         "wk:page":"The Valley"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":216447
+        "gn:id":[
+            3573374
+        ],
+        "qs_pg:id":[
+            216447
+        ],
+        "wk:page":[
+            "The_Valley%2C_Anguilla"
+        ]
     },
     "wof:country":"AI",
     "wof:created":1469052340,
@@ -181,7 +283,7 @@
         }
     ],
     "wof:id":890441875,
-    "wof:lastmodified":1636496653,
+    "wof:lastmodified":1706239301,
     "wof:name":"The Valley",
     "wof:parent_id":85667765,
     "wof:placetype":"locality",
@@ -189,7 +291,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ai",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259619819
+    ],
     "wof:tags":[]
 },
   "bbox": [
